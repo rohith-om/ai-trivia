@@ -4,6 +4,9 @@ Open Frame that allows users to play the 20 Questions game which are AI gnereate
 
 # Preview 
 
+
+[Test it](https://ai-trivia-frame.netlify.app/)
+
 ## Prerequisites
 
 Before running the application, make sure you have the following installed:
